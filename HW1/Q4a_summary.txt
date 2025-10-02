@@ -1,0 +1,28 @@
+       X          PassengerId       Survived         Pclass         
+ Min.   :  0.0   Min.   :  1.0   Min.   :0.0000   Length:714        
+ 1st Qu.:221.2   1st Qu.:222.2   1st Qu.:0.0000   Class :character  
+ Median :444.0   Median :445.0   Median :0.0000   Mode  :character  
+ Mean   :447.6   Mean   :448.6   Mean   :0.4062                     
+ 3rd Qu.:676.8   3rd Qu.:677.8   3rd Qu.:1.0000                     
+ Max.   :890.0   Max.   :891.0   Max.   :1.0000                     
+     Name               Sex                 Age            SibSp       
+ Length:714         Length:714         Min.   : 0.42   Min.   :0.0000  
+ Class :character   Class :character   1st Qu.:20.12   1st Qu.:0.0000  
+ Mode  :character   Mode  :character   Median :28.00   Median :0.0000  
+                                       Mean   :29.70   Mean   :0.5126  
+                                       3rd Qu.:38.00   3rd Qu.:1.0000  
+                                       Max.   :80.00   Max.   :5.0000  
+     Parch           Ticket               Fare           Cabin          
+ Min.   :0.0000   Length:714         Min.   :  0.00   Length:714        
+ 1st Qu.:0.0000   Class :character   1st Qu.:  8.05   Class :character  
+ Median :0.0000   Mode  :character   Median : 15.74   Mode  :character  
+ Mean   :0.4314                      Mean   : 34.69                     
+ 3rd Qu.:1.0000                      3rd Qu.: 33.38                     
+ Max.   :6.0000                      Max.   :512.33                     
+   Embarked        
+ Length:714        
+ Class :character  
+ Mode  :character  
+                   
+                   
+                   
